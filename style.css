@@ -1,4 +1,9 @@
-#user{
-        border-radius: 25px;
-        background-color:burlywood
+#user,
+{
+border-radius: 25px;
+       
+}
+#total_price{
+border-radius: 25px;
+
 }
